@@ -1,0 +1,32 @@
+_repo: Paid-Off_64757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coburn, Walt
+    aliases:
+    - Coburn, Walter John
+    - Coburn, Walter J.
+    birthdate: 1889
+    deathdate: 1971
+    gutenberg_agent_id: '53037'
+    url: http://www.gutenberg.org/2009/agents/53037
+    wikipedia: https://en.wikipedia.org/wiki/Walt_Coburn
+description: ''
+gutenberg_issued: '2021-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Sheriffs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Ranchers -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: Paid Off
+url: http://www.gutenberg.org/ebooks/64757
